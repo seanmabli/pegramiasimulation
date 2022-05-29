@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\sun.cs" />
      <Compile Include="Assets\planet.cs" />
+     <Compile Include="Assets\maincamera.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\2020.3.31f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
